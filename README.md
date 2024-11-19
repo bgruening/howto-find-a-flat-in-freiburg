@@ -4,14 +4,14 @@
 * There is a housing database from the University. It is like any other publicly available housing databases, but there are some apartments that can be found exclusively in this database. Anyone who is seeking for an accommodation can register as a tenant and get access to the apartment listing. More information is on the housing database: https://www.housing.uni-freiburg.de/housing-database
 * Office is nearby Freiburg-Mooswald, Stühlinger, Betzenhausen, Seepark, Freiburg Landwasser
 * Hugstetten (March) and other smaller villages are reachable by train or S-Bahn and might be worthwhile to consider if you don’t need to live inside Freiburg.
-* In Freiburg you can reach everything by bike, we all go by bike to work. You do not need a car and also no public transport. However, Freiburg has a very good Tram line connection inside the entire city. In addition there is a S-Bahn with a stop directly at our offices.
-* [Schnapp](https://schnapp.de/), [Zypresse](https://www.zypresse.com), look at both online.
+* In Freiburg you can reach everything by bike, we all go by bike to work. You do not need a car and also no public transport. However, Freiburg has a very good Tram line connection inside the entire city. In addition there is a S-Bahn with a stop directly at our offices. Aa a university employee, you get a bonus for a monthly public transport ticket. It is called JobTicket or Deutschland Ticket Job. [German infos here] (https://www.personalrat.uni-freiburg.de/themenbereiche/themen/deutschland-ticket-job)
+* [Schnapp](https://schnapp.de/), [Zypresse](https://www.zypresse.com), look at both online. Placing an ad that you are searching for a flat is recommended as it increases your visibility.
 * Furnished, expensive, but might cover you for a few weeks/months: https://wunderflats.com
 * Ebay Kleinanzeigen (https://www.ebay-kleinanzeigen.de/)
 * Check Boarding houses for temporary flats
 * airbnb or Ferienwohnung (sometimes possible for longer time, can be cheaper in winter time)
 * email to faculty employees/students mailing lists
-* [WG-gesucht](https://www.wg-gesucht.de/)
+* [WG-gesucht](https://www.wg-gesucht.de/) Placing an ad that you are searching for a flat is recommended as it increases your visibility.
 * Immo Scout24 (https://www.immobilienscout24.de/). They offer a PLUS membership subscription and through that you get access to exclusive advertisements and also access to advertisements 48 hrs before other users. Also provides you with statistics on how many people have contacted/applied/replied to an advertisement and so on.
 * Fizz apartments (https://www.the-fizz.com/studentenwohnheim/freiburg-mitte/)
 * local newspaper: [Badische Zeitung](https://www.badische-zeitung.de/) (not free)
