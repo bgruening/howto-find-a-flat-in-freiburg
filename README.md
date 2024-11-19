@@ -14,6 +14,9 @@
 * [WG-gesucht](https://www.wg-gesucht.de/)
 * Immo Scout24 (https://www.immobilienscout24.de/). They offer a PLUS membership subscription and through that you get access to exclusive advertisements and also access to advertisements 48 hrs before other users. Also provides you with statistics on how many people have contacted/applied/replied to an advertisement and so on.
 * Fizz apartments (https://www.the-fizz.com/studentenwohnheim/freiburg-mitte/)
+* Campo Novo Business apartments (furnished, max 3 months) (https://www.cnb-freiburg.de/)
+* Campo Novo apartments (unfurnished, only for students and trainees) (https://www.campo-novo-freiburg.de/)
+* City Herberge am Seepark (furnished, max 3 months) (https://city-herberge-am-seepark.de/)
 * local newspaper: [Badische Zeitung](https://www.badische-zeitung.de/) (not free)
 * There are a lot of villages around Freiburg. They usually have weekly local news papers too. They advertise the houses only occassionally because there are limited number of apartments and population in those dorfs. If there is no option left, it is worth looking into them. Search for those newspapers on google. Use keywords like “nachrichtenblatt” or “gemeindeblatt” along with a village name. For example: “nachrichtenblatt Bötzingen”, “gemeindeblatt gottenheim”
 * [Facebook group](https://www.facebook.com/groups/1538409486421945) - be cautious, can be scammers like everywhere
